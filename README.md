@@ -1,4 +1,4 @@
 # datapane-events
 Educational materials for all events (meetups / conferences / workshops)
 
-<iframe src='https://cloud.datapane.com/apps/W3DnrZk/datapane-events'></iframe>
+Check out the GitHub Pages - https://datapane.github.io/datapane-events/
