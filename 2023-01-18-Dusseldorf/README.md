@@ -1,5 +1,5 @@
 # 2023-01-18 Dusseldorf Meetup
 
 - Event URL: https://www.meetup.com/python-meeting-dusseldorf/events/288792065/
-- Slides (TBA)
-- Code Examples (TBA)
+- Slides: https://docs.google.com/presentation/d/1iGRnhrfeWwXN5bTsdtWw4JiKIvhfBvHnejqwf0tfkjg/edit?usp=sharing
+- Code Examples: See Jupyter notebooks "demo_xx"
